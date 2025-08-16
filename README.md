@@ -1,16 +1,12 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hi, I'm Lisandro Allio</h1>
+</div>
 
-<!--
-**LisandroAllio/LisandroAllio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  📚 I’m currently studying <strong>Computer Science @ <a href="https://www.famaf.unc.edu.ar/">FaMAF - UNC</strong></a>.<br>
+  ✉️ Reach me via email at <a href="mailto:lisandroallio@gmail.com"><strong>lisandroallio@gmail.com</strong></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>GitHub Stats</h2>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=lisandroallio&theme=github_dark&show_icons=true"alt="Lisandro's github stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisandroallio&theme=github_dark&layout=compact"/></a>
