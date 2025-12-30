@@ -4,7 +4,7 @@
 
 <p>
   📚 I’m currently studying <strong>Computer Science @ <a href="https://www.famaf.unc.edu.ar/">FaMAF - UNC</strong></a>.<br>
-  ✉️ Reach me via email at <a href="mailto:lisandroallio@gmail.com"><strong>lisandroallio@gmail.com</strong></a>
+  ✉️ Reach me via email at <a href="mailto:alliolisandro@gmail.com"><strong>alliolisandro@gmail.com</strong></a>
 </p>
 
 <h2>GitHub Stats</h2>
